@@ -10,5 +10,4 @@
   <li>Obstajajo nevarni odseki prog, kjer se podobne nesreče ponavljajo?</li>
   <li>Katere nesreče povezane z posameznim športom?</li>
   <li>So katere nesreče pogostejše pri določeni vrsti snega ali vremeniskih razmerah?</li>
-  <li>So katere nesreče pogostejše pri določeni vrsti snega?</li>
 </ul>
