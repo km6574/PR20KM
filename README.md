@@ -1,1 +1,1 @@
-# PR20KM
+# Nesreče na slovenskih smučiščih
